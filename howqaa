@@ -1,0 +1,135 @@
+connection.id:                          hostpot2021
+connection.uuid:                        1cfe2f16-a624-45db-915c-3a12cd9bb6c7
+connection.stable-id:                   --
+connection.type:                        802-11-wireless
+connection.interface-name:              wlp3s0
+connection.autoconnect:                 oui
+connection.autoconnect-priority:        0
+connection.autoconnect-retries:         -1 (default)
+connection.multi-connect:               0 (default)
+connection.auth-retries:                -1
+connection.timestamp:                   1637247522
+connection.read-only:                   non
+connection.permissions:                 --
+connection.zone:                        --
+connection.master:                      --
+connection.slave-type:                  --
+connection.autoconnect-slaves:          -1 (default)
+connection.secondaries:                 --
+connection.gateway-ping-timeout:        0
+connection.metered:                     inconnu
+connection.lldp:                        default
+connection.mdns:                        -1 (default)
+connection.llmnr:                       -1 (default)
+connection.wait-device-timeout:         -1
+802-11-wireless.ssid:                   hostpot2021
+802-11-wireless.mode:                   ap
+802-11-wireless.band:                   bg
+802-11-wireless.channel:                0
+802-11-wireless.bssid:                  --
+802-11-wireless.rate:                   0
+802-11-wireless.tx-power:               0
+802-11-wireless.mac-address:            --
+802-11-wireless.cloned-mac-address:     --
+802-11-wireless.generate-mac-address-mask:--
+802-11-wireless.mac-address-blacklist:  --
+802-11-wireless.mac-address-randomization:default
+802-11-wireless.mtu:                    auto
+802-11-wireless.seen-bssids:            10:02:B5:E6:41:FF
+802-11-wireless.hidden:                 non
+802-11-wireless.powersave:              0 (default)
+802-11-wireless.wake-on-wlan:           0x1 (default)
+802-11-wireless.ap-isolation:           -1 (default)
+802-11-wireless-security.key-mgmt:      wpa-psk
+802-11-wireless-security.wep-tx-keyidx: 0
+802-11-wireless-security.auth-alg:      --
+802-11-wireless-security.proto:         --
+802-11-wireless-security.pairwise:      --
+802-11-wireless-security.group:         --
+802-11-wireless-security.pmf:           0 (default)
+802-11-wireless-security.leap-username: --
+802-11-wireless-security.wep-key0:      <hidden>
+802-11-wireless-security.wep-key1:      <hidden>
+802-11-wireless-security.wep-key2:      <hidden>
+802-11-wireless-security.wep-key3:      <hidden>
+802-11-wireless-security.wep-key-flags: 0 (aucun)
+802-11-wireless-security.wep-key-type:  unknown
+802-11-wireless-security.psk:           <hidden>
+802-11-wireless-security.psk-flags:     0 (aucun)
+802-11-wireless-security.leap-password: <hidden>
+802-11-wireless-security.leap-password-flags:0 (aucun)
+802-11-wireless-security.wps-method:    0x0 (default)
+802-11-wireless-security.fils:          0 (default)
+ipv4.method:                            shared
+ipv4.dns:                               --
+ipv4.dns-search:                        --
+ipv4.dns-options:                       --
+ipv4.dns-priority:                      0
+ipv4.addresses:                         --
+ipv4.gateway:                           --
+ipv4.routes:                            --
+ipv4.route-metric:                      -1
+ipv4.route-table:                       0 (unspec)
+ipv4.routing-rules:                     --
+ipv4.ignore-auto-routes:                non
+ipv4.ignore-auto-dns:                   non
+ipv4.dhcp-client-id:                    --
+ipv4.dhcp-iaid:                         --
+ipv4.dhcp-timeout:                      0 (default)
+ipv4.dhcp-send-hostname:                oui
+ipv4.dhcp-hostname:                     --
+ipv4.dhcp-fqdn:                         --
+ipv4.dhcp-hostname-flags:               0x0 (none)
+ipv4.never-default:                     non
+ipv4.may-fail:                          oui
+ipv4.dad-timeout:                       -1 (default)
+ipv4.dhcp-vendor-class-identifier:      --
+ipv4.dhcp-reject-servers:               --
+ipv6.method:                            auto
+ipv6.dns:                               --
+ipv6.dns-search:                        --
+ipv6.dns-options:                       --
+ipv6.dns-priority:                      0
+ipv6.addresses:                         --
+ipv6.gateway:                           --
+ipv6.routes:                            --
+ipv6.route-metric:                      -1
+ipv6.route-table:                       0 (unspec)
+ipv6.routing-rules:                     --
+ipv6.ignore-auto-routes:                non
+ipv6.ignore-auto-dns:                   non
+ipv6.never-default:                     non
+ipv6.may-fail:                          oui
+ipv6.ip6-privacy:                       -1 (unknown)
+ipv6.addr-gen-mode:                     stable-privacy
+ipv6.ra-timeout:                        0 (default)
+ipv6.dhcp-duid:                         --
+ipv6.dhcp-iaid:                         --
+ipv6.dhcp-timeout:                      0 (default)
+ipv6.dhcp-send-hostname:                oui
+ipv6.dhcp-hostname:                     --
+ipv6.dhcp-hostname-flags:               0x0 (none)
+ipv6.token:                             --
+proxy.method:                           none
+proxy.browser-only:                     non
+proxy.pac-url:                          --
+proxy.pac-script:                       --
+GENERAL.NAME:                           hostpot2021
+GENERAL.UUID:                           1cfe2f16-a624-45db-915c-3a12cd9bb6c7
+GENERAL.DEVICES:                        wlp3s0
+GENERAL.IP-IFACE:                       wlp3s0
+GENERAL.STATE:                          activé
+GENERAL.DEFAULT:                        non
+GENERAL.DEFAULT6:                       non
+GENERAL.SPEC-OBJECT:                    /org/freedesktop/NetworkManager/AccessPoint/186
+GENERAL.VPN:                            non
+GENERAL.DBUS-PATH:                      /org/freedesktop/NetworkManager/ActiveConnection/7
+GENERAL.CON-PATH:                       /org/freedesktop/NetworkManager/Settings/29
+GENERAL.ZONE:                           --
+GENERAL.MASTER-PATH:                    --
+IP4.ADDRESS[1]:                         10.42.0.1/24
+IP4.GATEWAY:                            --
+IP4.ROUTE[1]:                           dst = 10.42.0.0/24, nh = 0.0.0.0, mt = 600
+IP6.ADDRESS[1]:                         fe80::7ea3:1100:c8ce:a0c2/64
+IP6.GATEWAY:                            --
+IP6.ROUTE[1]:                           dst = fe80::/64, nh = ::, mt = 600
